@@ -1,5 +1,5 @@
 # TicTacToe
 TicTacToe Game to help me learn Vue!
 
-### [Play it now!](https://www.hardtictactoe.netlify.app)
+### [Play it now!](https://hardtictactoe.netlify.app)
 
